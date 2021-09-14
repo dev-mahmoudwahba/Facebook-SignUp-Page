@@ -1,0 +1,158 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.wrapper {
+  width: 704px;
+  height: 170px;
+}
+body {
+  background-color: #f0f2f5;
+  direction: rtl;
+}
+
+.container2 {
+  top: 118%;
+  float: right;
+  position: relative;
+  right: 21%;
+  direction: rtl;
+  font-family: cursive;
+}
+
+.form {
+  right: 72%;
+  box-shadow: 0 4px 5px rgb(0 0 0 / 26%), 0 8px 16px rgb(0 0 0 / 5%);
+
+  float: left;
+  position: relative;
+  top: 7%;
+  width: 381px;
+  height: 400px;
+  background-color: white;
+  border-radius: 6px;
+}
+
+.clear {
+  clear: both;
+}
+
+.text-under {
+  right: 124%;
+
+  position: relative;
+  top: 26%;
+  display: inline-block;
+}
+h1 {
+  color: #1877f2;
+  font-size: 47px;
+  font-weight: bolder;
+}
+.container2 p {
+  font-size: 28px;
+}
+
+.form input {
+  padding: 20px 12px 20px 114px;
+  display: block;
+  margin: 16px;
+  font-size: 17px;
+  border-radius: 5px;
+  color: #1d2129;
+  border: 1px solid;
+}
+.form hr {
+  position: relative;
+    right: 4%;
+    width: 91%;
+    top: 1%;
+    color: #1c1e21;
+}
+
+.form input:focus {
+  outline: 1px solid blue;
+  border: none;
+}
+.form button {
+  display: block;
+  border-radius: inherit;
+  width: 91%;
+  border: none;
+  color: white;
+  font-size: 25px;
+  padding: 14px 4px;
+  background-color: #1877f2;
+  margin: 17px 16px;
+}
+.form a {
+  text-decoration: none;
+  display: inline-block;
+
+  margin: 10px 135px;
+}
+
+button.register-btn {
+  width: 176px;
+  margin-right: 25%;
+  margin-top: 23px;
+  background-color: #36a420;
+}
+hr {
+  position: relative;
+  right: 18%;
+  width: 73%;
+  top: 1%;
+  color: #1c1e21;
+}
+
+.span {
+  font-weight: bold;
+}
+
+footer {
+  height: 187px;
+  overflow: hidden;
+  width: 1347px;
+  text-align: center;
+
+  background-color: white;
+}
+
+.footer-container a {
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px;
+  margin-top: 23px;
+  color: #8a8d91;
+  font-size: 14px;
+}
+
+.container-link2 a {
+  text-decoration: none;
+  color: #8a8d91;
+  display: inline-block;
+  padding: 10px;
+  margin-top: 7px;
+  position: relative;
+  right: 58px;
+  font-size: 14px;
+}
+
+.container-link2 {
+  line-height: 0;
+}
+
+a.help {
+  position: relative;
+  display: block;
+  left: 43px;
+  right: 209px;
+
+  text-align: right;
+}
+
+.copy {
+  text-align: right;
+  margin-right: 215px;
+}
